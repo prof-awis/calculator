@@ -21,7 +21,7 @@ html {
     width: 100%;
     height: 60px;
     padding: 40px 0;
-    background: #a305ff;
+    background: rgb(97, 90, 90);
     border-top-left-radius: 14px;
     border-top-right-radius: 14px;
 }
@@ -42,13 +42,13 @@ input[type=button] {
     padding: 0;
     margin: 5px;
     box-sizing: border-box;
-    background: #ecedef;
+    background: #5d76a8;
     border: none;
     font-size: 30px;
     line-height: 30px;
     border-radius: 50%;
     font-weight: 700;
-    color: #5E5858;
+    color: white;
     cursor: pointer;
 }
 
